@@ -1,6 +1,6 @@
 # Code-Phantom
 To play the current build of the game please visit: 
-https://github.com/EladCohen1/Code-Phantom-Game
+https://github.com/EladCohen1/Code-Phantom
 
 # Assets
 1) Better Landscape Pack Vol.1
